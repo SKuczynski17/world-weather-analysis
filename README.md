@@ -1,1 +1,2 @@
 # World_Weather_Analysis
+## The purpose of this challenge was to help our customers find a vacation destination. We were able to use APIs to create programs that would allow them to type in preferred temperature range to find the perfect destinations around the world! 
